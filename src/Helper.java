@@ -9,7 +9,6 @@ class Helper {
     // With same name but with 2 double parameters
     static double Multiply(double a, double b)
     {
-
         return a * b;
     }
 }
